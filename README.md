@@ -5,10 +5,8 @@ Các chức năng đã thực hiện :
 - Sử dụng công cụ vẽ đồ thị để vẽ đồ thị đo cường độ sáng thu được theo thời gian thực
 
 ## Sơ đồ mạch 
-![Circuit Diagram](img/circuit.jpg)
-
-## Mạch thực tế
 ![Fritzing layout](img/fritzing.png)
-
+## Mạch thực tế
+![Circuit Diagram](img/circuit.jpg)
 ## Kết quả 
 ![Teleplot Graph](img/teleplot.png)
